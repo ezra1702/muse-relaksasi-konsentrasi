@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Rekaman Muse pribadi (data subjek, jangan diunggah)
+data_muse/
+
+# Arsip dataset (sudah diekstrak di eeg/extracted)
+eeg/*.zip
